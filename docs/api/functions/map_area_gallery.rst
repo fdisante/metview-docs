@@ -23,7 +23,7 @@ map_area_gallery
 
     .. code-block:: python
 
-        view = mv.geoview(area_mode="user", area_name="central_europe")
+        view = mv.geoview(area_mode="name", area_name="central_europe")
 
     The default map area gallery looks like this:
     
